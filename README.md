@@ -23,7 +23,7 @@ Currently there are four [Rutgers University](https://www.rutgers.edu/) faculty 
 **Graduate Students**:
 
 * Shalini Choudhury
-* [Cheng Fang] (https://sites.google.com/view/chengfangswebsite)
+* [Cheng Fang](https://sites.google.com/view/chengfangswebsite)
 * Aliasghar Mohammadsalehi
 * Vishakha Ramani
 * Nitya Sathyavageeswaran
