@@ -28,3 +28,4 @@ Currently there are four [Rutgers University](https://www.rutgers.edu/) faculty 
 * Vishakha Ramani
 * Nitya Sathyavageeswaran
 * Yu Wu
+* Muhammad Zulqarnain
