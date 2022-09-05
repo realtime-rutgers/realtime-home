@@ -11,7 +11,7 @@ This project is about developing frameworks for real-time operation, online deci
 
 ## Team members
 
-Currently there are four [Rutgers University](https://www.rutgers.edu/) faculty members and 6 students working on this project.
+Currently there are four [Rutgers University](https://www.rutgers.edu/) faculty members and 7 students working on this project.
 
 **Faculty:**
 
