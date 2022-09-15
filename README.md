@@ -24,7 +24,7 @@ Currently there are four [Rutgers University](https://www.rutgers.edu/) faculty 
 
 * Shalini Choudhury
 * [Cheng Fang](https://sites.google.com/view/chengfangswebsite)
-* Aliasghar Mohammadsalehi
+* [Aliasghar Mohammadsalehi](http://winlab.rutgers.edu/~ali)
 * Vishakha Ramani
 * Nitya Sathyavageeswaran
 * Yu Wu
